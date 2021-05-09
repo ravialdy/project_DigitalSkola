@@ -121,6 +121,16 @@ Using One Hot Encoding like this.
 * Ravialdy Hidayat
 * Ricardo Valentino
 
+### Reference :
+* https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
+* https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance
+* https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
+* https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+* https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
+* https://www.kaggle.com/gpreda/home-credit-default-risk-extensive-eda
+* https://www.kaggle.com/shivamb/homecreditrisk-extensive-eda-baseline-0-772
+* https://www.kaggle.com/tilii7/olivier-lightgbm-parameters-by-bayesian-opt
+
 
 
 
